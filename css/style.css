@@ -13,6 +13,11 @@ main {
     flex-grow: 1;
 
 }
+.secondary-content:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
 .brand-logo {
     font-family: 'Press Start 2P', cursive;
     /* margin: 0 0 0 15px; */
